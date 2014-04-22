@@ -1,4 +1,4 @@
-package com.nly.one.domain;
+/*package com.nly.one.domain;
 
 public class User {
 	private String userName;
@@ -17,3 +17,4 @@ public class User {
 	}
 	
 }
+*/

@@ -1,4 +1,4 @@
-package com.nly.one.service;
+/*package com.nly.one.service;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -7,7 +7,7 @@ import javax.jws.WebService;
 
 import com.nly.one.domain.User;
 
-@WebService/*(endpointInterface="com.nly.service.IHello",serviceName="IHello")*/
+@WebService(endpointInterface="com.nly.service.IHello",serviceName="IHello")
 public class Hello implements IHello {
 
 	@Override
@@ -28,3 +28,4 @@ public class Hello implements IHello {
 
 
 }
+*/

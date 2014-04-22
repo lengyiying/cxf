@@ -1,4 +1,4 @@
-package com.nly.one.service;
+/*package com.nly.one.service;
 
 import java.util.Map;
 
@@ -16,3 +16,4 @@ public interface IHello {
 	
 	
 }
+*/

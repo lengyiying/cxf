@@ -1,7 +1,7 @@
-package com.nly.one.service;
+/*package com.nly.one.service;
 
 import org.apache.cxf.aegis.databinding.AegisDatabinding;
-import org.apache.cxf.frontend.ServerFactoryBean;
+import org.apache.cxf.jaxws.JaxWsServerFactoryBean;
 
 
 public final class Server {
@@ -9,7 +9,7 @@ public final class Server {
 	
 	public static void startServer() {
 		IHello hello = new Hello();
-		ServerFactoryBean bean = new ServerFactoryBean();
+		JaxWsServerFactoryBean bean = new JaxWsServerFactoryBean();
 		bean.setServiceClass(Hello.class);
 		bean.setAddress("http://localhost:8080/cxfDemo");
 		bean.setServiceBean(hello);
@@ -30,3 +30,4 @@ public final class Server {
 		System.exit(0);
 	}
 }
+*/
