@@ -5,6 +5,7 @@ import java.util.Date;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 
+
 import com.nly.two.define.CustomerType;
 
 @XmlAccessorType(XmlAccessType.FIELD)

@@ -19,5 +19,5 @@ import com.nly.two.java.Customer;
 	@WSDLDocumentation(value="My binding doc",placement=Placement.BINDING)
 })
 public interface ICustomerService {
-	Customer[] getCustomerByName(@WebParam(name="userName")String name) throws NoCustomerException;
+	Customer[] getCustomerByName(@WebParam(name="customerName")String name) throws NoCustomerException;
 }
